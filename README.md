@@ -1,2 +1,2 @@
 # Hello-World
-join the github
+join in the github
